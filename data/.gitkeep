@@ -1,0 +1,7 @@
+# Place raw Amazon 2014 5-core review files here:
+#   reviews_Beauty_5.json.gz
+#   reviews_Toys_and_Games_5.json.gz
+#   reviews_Sports_and_Outdoors_5.json.gz
+#   reviews_Clothing_Shoes_and_Jewelry_5.json.gz
+#   reviews_Video_Games_5.json.gz
+# Download from: http://jmcauley.ucsd.edu/data/amazon/
