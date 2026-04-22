@@ -1,4 +1,4 @@
-# TF-IDFRank
+# TERRA
 
 Post-hoc TF-IDF reranking for sequential recommendation. Given a pretrained backbone and a review corpus, we blend the backbone's scores with a content similarity profile built from TF-IDF + Truncated SVD on item reviews. The backbone is used as-is; no retraining.
 
